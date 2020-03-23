@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence.csproj": {}
+    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence.csproj": {
+    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence.csproj",
+        "projectUniqueName": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj",
         "projectName": "gestionabsence",
-        "projectPath": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence.csproj",
+        "projectPath": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj",
         "packagesPath": "C:\\Users\\toshiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toshiba\\gestionabsence\\obj\\",
+        "outputPath": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,13 +50,33 @@
               "target": "Package",
               "version": "[3.1.2, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.Mysql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
