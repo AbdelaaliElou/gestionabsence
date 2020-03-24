@@ -16,6 +16,8 @@ namespace gestionabsence.Models
 
          public ICollection<Etudiant> List_Etudiants { get; set; }
 
-         public ICollection<Professeur> List_Professeurs { get; set; }
+         public int ID_Professeur { get; set; }
+
+         public Professeur  Professeur { get; set; }
     }
 }

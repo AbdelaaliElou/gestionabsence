@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj": {}
+    "C:\\Users\\toshiba\\Desktop\\gestionabsence\\gestionabsence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj": {
+    "C:\\Users\\toshiba\\Desktop\\gestionabsence\\gestionabsence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj",
+        "projectUniqueName": "C:\\Users\\toshiba\\Desktop\\gestionabsence\\gestionabsence.csproj",
         "projectName": "gestionabsence",
-        "projectPath": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj",
+        "projectPath": "C:\\Users\\toshiba\\Desktop\\gestionabsence\\gestionabsence.csproj",
         "packagesPath": "C:\\Users\\toshiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toshiba\\gestionabsence\\gestionabsence\\obj\\",
+        "outputPath": "C:\\Users\\toshiba\\Desktop\\gestionabsence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",

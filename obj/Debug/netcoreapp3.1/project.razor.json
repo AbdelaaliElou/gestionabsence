@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\gestionabsence.csproj",
+  "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\gestionabsence.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -2328,7 +2328,7 @@
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
-        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.Boolean\" /> values.\n            </summary>\n        ",
+        "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -2410,7 +2410,7 @@
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
-        "Documentation": "\n            <summary>\n            An input component for editing <see cref=\"T:System.Boolean\" /> values.\n            </summary>\n        ",
+        "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -20521,48 +20521,98 @@
   "RootNamespace": "gestionabsence",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Etudiants\\Delete.cshtml",
+      "TargetPath": "Pages\\Etudiants\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Filieres\\Details.cshtml",
+      "TargetPath": "Pages\\Filieres\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Etudiants\\Edit.cshtml",
+      "TargetPath": "Pages\\Etudiants\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Etudiants\\Index.cshtml",
+      "TargetPath": "Pages\\Etudiants\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Etudiants\\Create.cshtml",
+      "TargetPath": "Pages\\Etudiants\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Filieres\\Edit.cshtml",
+      "TargetPath": "Pages\\Filieres\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\toshiba\\gestionabsence\\gestionabsence\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Filieres\\Index.cshtml",
+      "TargetPath": "Pages\\Filieres\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Filieres\\Create.cshtml",
+      "TargetPath": "Pages\\Filieres\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Filieres\\Delete.cshtml",
+      "TargetPath": "Pages\\Filieres\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Etudiants\\Details.cshtml",
+      "TargetPath": "Pages\\Etudiants\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\toshiba\\Desktop\\gestionabsence\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -4,6 +4,7 @@ namespace gestionabsence.Models
 {
     public class Pointeuse
     {
+        
         [Key]
         public int ID_Pointeuse { get; set; }
 
@@ -12,6 +13,6 @@ namespace gestionabsence.Models
 
         public Seance seance { get; set; }
 
-        public Etudiant etudiant { get; set; }
+        public Etudiant Etudiant { get; set; }
     }
 }
