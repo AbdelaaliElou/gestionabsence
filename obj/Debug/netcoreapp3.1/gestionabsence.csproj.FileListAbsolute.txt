@@ -444,3 +444,8 @@ C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\staticwebassets\
 C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\staticwebassets\gestionabsence.StaticWebAssets.xml
 C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\gestionabsence.dll
 C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\gestionabsence.pdb
+C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\Razor\Pages\Etudiants\Create.cshtml.g.cs
+C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\Razor\Pages\Etudiants\Delete.cshtml.g.cs
+C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\Razor\Pages\Etudiants\Details.cshtml.g.cs
+C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\Razor\Pages\Etudiants\Edit.cshtml.g.cs
+C:\Users\toshiba\Desktop\gestionabsence\obj\Debug\netcoreapp3.1\Razor\Pages\Etudiants\Index.cshtml.g.cs

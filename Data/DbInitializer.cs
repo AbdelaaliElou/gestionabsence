@@ -11,7 +11,7 @@ namespace ContosoUniversity.Data
     {
         public static void Initialize(ApplicationDbContext context)
         {
-            //context.Database.EnsureCreated();
+            context.Database.EnsureCreated();
 
             // Look for any students.
             if (context.Etudiants.Any())

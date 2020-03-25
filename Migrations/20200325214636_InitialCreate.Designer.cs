@@ -9,7 +9,7 @@ using gestionabsence.Data;
 namespace gestionabsence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20200324230136_InitialCreate")]
+    [Migration("20200325214636_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
